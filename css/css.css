@@ -1,0 +1,11 @@
+@charset "utf-8";
+.bg_left {
+	background-image: url(images/left_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+#bg_right {
+	background-image: url(images/right_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
